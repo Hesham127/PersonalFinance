@@ -57,15 +57,11 @@ npm start
 ```
 4. Access the app at http://localhost:3000
 
-📖 Next Steps
-- Implement transaction creation and balance updates (Sprint 1)
-- Add edit/delete functionality (Sprint 1–2)
-- Build filtering, search, and categorization (Sprint 2)
-- Write unit tests and integration tests
-- Document APIs with Postman or Swagger
+
 
 
 ---
+
 
 
 
