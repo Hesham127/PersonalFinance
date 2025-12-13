@@ -67,39 +67,6 @@ npm start
 
 ---
 
-## 🖥️ Git Commands to Create Repo and Add README
-
-Run these step by step in your terminal:
-
-```bash
-# 1. Create a new folder for your project
-mkdir personal-finance-tracker
-cd personal-finance-tracker
-
-# 2. Initialize Git
-git init
-
-# 3. Create README.md file
-echo "# Personal Finance Tracker" > README.md
-
-# (Or paste the full README content above into README.md manually)
-
-# 4. Stage and commit the README
-git add README.md
-git commit -m "Initial commit: add baseline README with project goals"
-
-# 5. Create a new repo on GitHub (via website or GitHub CLI)
-# If using GitHub CLI:
-gh repo create personal-finance-tracker --public --source=. --remote=origin --push
-
-# 6. If you created the repo manually on GitHub, link it:
-git remote add origin https://github.com/your-username/personal-finance-tracker.git
-
-# 7. Push your commit to GitHub
-git branch -M main
-git push -u origin main
-
-
 
 
 
