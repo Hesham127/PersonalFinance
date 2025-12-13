@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: Felosy_Project
+  datasource:
+    url: jdbc:mysql://localhost:3306/Felosy1?createDatabaseIfNotExist=true
+
+    username: root
+    password: etch2004
+  jpa:
+    show-sql: true
+
+Server:
+  Port: 8081
