@@ -1,0 +1,206 @@
+.dashboard-reports-container1 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.dashboard-reports-thq-accounts-balances-elm1 {
+  background: var(--color-surface-elevated);
+}
+ 
+.dashboard-reports-separator {
+  width: 100%;
+  height: 1px;
+  background-color: #595959;
+}
+ 
+.dashboard-reports-thq-accounts-balances-elm2 {
+  height: 1406px;
+  background: var(--color-surface-elevated);
+}
+ 
+.dashboard-reports-thq-section-title-elm2 {
+  width: 480px;
+  height: 75px;
+  margin: 20px;
+  text-align: left;
+}
+ 
+.dashboard-reports-thq-section-subtitle-elm2 {
+  margin-left: 20px;
+  margin-bottom: 30px;
+}
+ 
+.dashboard-reports-thq-accounts-balances-wrapper-elm2 {
+  width: 1193px;
+  height: 474px;
+}
+ 
+.dashboard-reports-thq-ai-insights-item-elm10 {
+  height: 119px;
+}
+ 
+.dashboard-reports-thq-ai-insights-item-icon-elm10 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+ 
+.dashboard-reports-thq-ai-insights-item-description-elm10 {
+  font-style: italic;
+}
+ 
+.dashboard-reports-thq-ai-insights-item-elm11 {
+  height: 118px;
+}
+ 
+.dashboard-reports-thq-ai-insights-item-icon-elm11 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+ 
+.dashboard-reports-thq-ai-insights-item-description-elm11 {
+  font-style: italic;
+}
+ 
+.dashboard-reports-thq-ai-insights-item-elm12 {
+  height: 118px;
+}
+ 
+.dashboard-reports-thq-ai-insights-item-icon-elm12 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+ 
+.dashboard-reports-thq-ai-insights-item-description-elm12 {
+  font-style: italic;
+}
+ 
+.dashboard-reports-thq-ai-insights-item-elm13 {
+  height: 118px;
+}
+ 
+.dashboard-reports-thq-ai-insights-item-icon-elm13 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+ 
+.dashboard-reports-thq-ai-insights-item-description-elm13 {
+  font-style: italic;
+}
+ 
+.dashboard-reports-thq-ai-insights-wrapper-elm1 {
+  height: 8px;
+}
+ 
+.dashboard-reports-thq-ai-insights-header-content-elm1 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+ 
+.dashboard-reports-container2 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.dashboard-reports-thq-ai-insights-list-elm1 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+ 
+.dashboard-reports-navlink {
+  color: var(--color-border);
+  width: var(--dl-layout-size-xxlarge);
+  height: var(--dl-layout-size-medium);
+  font-size: 24px;
+  max-width: var(--dl-layout-size-xxlarge);
+  min-width: var(--dl-layout-size-xxlarge);
+  transform: translateX(850px);
+  box-shadow: rgb(212, 212, 212) 5px 5px 10px 0px;
+  margin-top: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  backdrop-filter: blur(5px);
+  text-decoration: none;
+  background-color: var(--color-primary);
+}
+ 
+.dashboard-reports-thq-visualizations-charts-container-elm {
+  height: 781px;
+}
+ 
+.dashboard-reports-thq-visualizations-charts-bar-elm10 {
+  height: 45%;
+}
+ 
+.dashboard-reports-thq-visualizations-charts-bar-elm11 {
+  height: 62%;
+}
+ 
+.dashboard-reports-thq-visualizations-charts-bar-elm12 {
+  height: 38%;
+}
+ 
+.dashboard-reports-thq-visualizations-charts-bar-elm13 {
+  height: 78%;
+}
+ 
+.dashboard-reports-thq-visualizations-charts-bar-elm14 {
+  height: 55%;
+}
+ 
+.dashboard-reports-thq-visualizations-charts-bar-elm15 {
+  height: 85%;
+}
+ 
+.dashboard-reports-thq-visualizations-charts-bar-elm16 {
+  height: 48%;
+}
+ 
+.dashboard-reports-thq-visualizations-charts-bar-elm17 {
+  height: 67%;
+}
+ 
+.dashboard-reports-thq-visualizations-charts-bar-elm18 {
+  height: 42%;
+}
+ 
+.dashboard-reports-thq-visualizations-charts-bar-elm19 {
+  height: 73%;
+}
+ 
+.dashboard-reports-container3 {
+  display: none;
+}
+ 
+.dashboard-reports-container4 {
+  display: contents;
+}
+ 
+.dashboard-reports-container5 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.dashboard-reports-icon206 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.dashboard-reports-text41 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}

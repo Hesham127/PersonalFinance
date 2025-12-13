@@ -1,0 +1,32 @@
+.navigation-container1 {
+  display: contents;
+}
+ 
+.navigation-thq-navigation-container-elm {
+  border-color: var(--color-on-surface);
+  border-width: 1px;
+}
+ 
+.navigation-thq-navigation-menu-elm {
+  width: 766px;
+}
+ 
+.navigation-thq-navigation-actions-elm {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+ 
+.navigation-container2 {
+  display: none;
+}
+ 
+.navigation-container3 {
+  display: contents;
+}
+ 
+.navigation-container4 {
+  display: none;
+}
+ 
+.navigation-container5 {
+  display: contents;
+}

@@ -12,6 +12,7 @@
     "@teleporthq/react-components": "latest"
   },
   "scripts": {
+    "prestart": "node scripts/check-env.js",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test --env=jsdom",
